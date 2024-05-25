@@ -1,4 +1,4 @@
-package com.nandaadisaputra.recyclerview.ui
+package com.nandaadisaputra.recyclerview.ui.activity
 
 import android.content.Intent
 import android.os.Bundle
